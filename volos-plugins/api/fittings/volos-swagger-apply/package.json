@@ -1,0 +1,83 @@
+{
+  "_args": [
+    [
+      "volos-swagger-apply@0.0.1",
+      "/Users/sganyo/dev/swagger-node-examples/volos-plugins"
+    ]
+  ],
+  "_from": "volos-swagger-apply@0.0.1",
+  "_id": "volos-swagger-apply@0.0.1",
+  "_inCache": true,
+  "_location": "/volos-swagger-apply",
+  "_nodeVersion": "4.0.0",
+  "_npmUser": {
+    "email": "scott@ganyo.com",
+    "name": "scottganyo"
+  },
+  "_npmVersion": "2.14.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "volos-swagger-apply",
+    "raw": "volos-swagger-apply@0.0.1",
+    "rawSpec": "0.0.1",
+    "scope": null,
+    "spec": "0.0.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_shasum": "dc3e262c7db0e86e1dd1bf3387918c6951579385",
+  "_shrinkwrap": null,
+  "_spec": "volos-swagger-apply@0.0.1",
+  "_where": "/Users/sganyo/dev/swagger-node-examples/volos-plugins",
+  "author": {
+    "email": "sganyo@apigee.com",
+    "name": "Scott Ganyo"
+  },
+  "bugs": {
+    "url": "https://github.com/apigee-127/volos-swagger-apply/issues"
+  },
+  "dependencies": {
+    "volos-swagger": "^0.7.9"
+  },
+  "description": "A swagger-node fitting for x-volos-apply",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "dc3e262c7db0e86e1dd1bf3387918c6951579385",
+    "tarball": "http://registry.npmjs.org/volos-swagger-apply/-/volos-swagger-apply-0.0.1.tgz"
+  },
+  "gitHead": "5c8ed3affbe9633ce5cbe1036d6725cf5e0b58e2",
+  "homepage": "https://github.com/apigee-127/volos-swagger-apply#readme",
+  "installable": true,
+  "keywords": [
+    "analytics",
+    "apigee",
+    "arrest",
+    "cache",
+    "quota",
+    "spike",
+    "spikearrest",
+    "swagger",
+    "volos"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "scottganyo",
+      "email": "scott@ganyo.com"
+    }
+  ],
+  "name": "volos-swagger-apply",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apigee-127/volos-swagger-apply.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}

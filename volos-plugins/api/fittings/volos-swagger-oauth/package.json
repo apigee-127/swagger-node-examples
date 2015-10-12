@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      "volos-swagger-oauth@0.0.1",
+      "/Users/sganyo/dev/swagger-node-examples/volos-plugins"
+    ]
+  ],
+  "_from": "volos-swagger-oauth@0.0.1",
+  "_id": "volos-swagger-oauth@0.0.1",
+  "_inCache": true,
+  "_location": "/volos-swagger-oauth",
+  "_nodeVersion": "4.0.0",
+  "_npmUser": {
+    "email": "scott@ganyo.com",
+    "name": "scottganyo"
+  },
+  "_npmVersion": "2.14.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "volos-swagger-oauth",
+    "raw": "volos-swagger-oauth@0.0.1",
+    "rawSpec": "0.0.1",
+    "scope": null,
+    "spec": "0.0.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_shasum": "5abdfe92b60f32f8d391f9cde9f3343ef4d74c0f",
+  "_shrinkwrap": null,
+  "_spec": "volos-swagger-oauth@0.0.1",
+  "_where": "/Users/sganyo/dev/swagger-node-examples/volos-plugins",
+  "author": {
+    "email": "sganyo@apigee.com",
+    "name": "Scott Ganyo"
+  },
+  "bugs": {
+    "url": "https://github.com/apigee-127/volos-swagger-oauth/issues"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "volos-swagger": "^0.7.8"
+  },
+  "description": "A swagger-node fitting for volos oauth",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5abdfe92b60f32f8d391f9cde9f3343ef4d74c0f",
+    "tarball": "http://registry.npmjs.org/volos-swagger-oauth/-/volos-swagger-oauth-0.0.1.tgz"
+  },
+  "gitHead": "37de19368bafbb798417ab36d66a45d8b7b285ab",
+  "homepage": "https://github.com/apigee-127/volos-swagger-oauth#readme",
+  "installable": true,
+  "keywords": [
+    "oauth",
+    "swagger",
+    "volos"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "scottganyo",
+      "email": "scott@ganyo.com"
+    }
+  ],
+  "name": "volos-swagger-oauth",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apigee-127/volos-swagger-oauth.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
